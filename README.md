@@ -1,6 +1,6 @@
 # DSA Practice
 
-This repository contains my daily practice codes for  
+This repository contains my daily/weekly/anytime  practice codes for  
 Data Structures and Algorithms.
 
 📌 Language: C++  
@@ -12,6 +12,8 @@ Topics covered:
 - Pointers
     -pointer arithmetic,pointer use cases
 - arraysAndPointers
+- pointer_types
+    -wild pointer,null pointer,dangling pointer, void pointer
 - STL
     -vectors,pairs
 
