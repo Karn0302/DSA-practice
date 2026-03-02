@@ -17,7 +17,10 @@ Topics covered:
 - STL
     -vectors,pairs
 
-- tobeupdated
+- OOPS
+    -class&objects, constructors, destructor, encapsulation, inheritance->single-level/multilevel/herarchical/
+    -diamond_problem,polymorphism through- function overloading,operator overloading and function overriding, 
+    -friend function
 - tobeupdated
 - tobeupdated
 - tobeupdated
